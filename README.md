@@ -51,7 +51,7 @@ Representa la fecha de cumpleaños de una persona, los atributos son enteros, el
 4. El método **imprime()** despliega a pantalla todos los atributos del objeto, utiliza el formato que tú quieras para esto (dale personalidad a tu imprime).
 5. El método **iguales(Fecha)**, devuelve un entero 1 si “ésta” Fecha es igual a la que recibe como parámetro. Decimos que son iguales, si coinciden en mes y día, si no coinciden regresa un 0.
 
-**CLASE CAJA** 
+**CLASE PERSONA** 
 
 Representa una persona con nombre y fecha de cumpleaños
 1. Observa que el atributo cumple es un objeto de la clase Fecha.
